@@ -1,0 +1,32 @@
+body {
+    background: rgb(0,0,0);
+    background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(40,49,70,1) 25%, rgba(149,153,164,1) 50%, rgba(255,255,255,0) 100%); 
+}
+
+.border {
+    border: 1px solid black;
+}
+
+.main {
+    height: 85vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h2 {
+    font-size: 2rem;
+    text-align: center;
+}
+
+p {
+    font-size: 1.5rem;
+}
+
+.footer {
+    height: 6.7vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: whitesmoke;
+}

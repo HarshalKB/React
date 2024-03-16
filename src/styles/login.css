@@ -1,0 +1,22 @@
+h2 {
+    margin-bottom: 50px;
+}
+
+form {
+    margin: 0 auto;
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+label, input, form button {
+    width: 100%;
+    font-size: 1.5rem;
+    margin-bottom: 30px;
+}
+
+.message {
+    width: 500px;
+    color: red;
+}

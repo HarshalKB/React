@@ -1,0 +1,27 @@
+.nav {
+    height: 5vh;
+    margin-bottom: 10px;
+    min-height: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 25px;
+    background-color: #10444b;
+}
+
+.pages {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.pages p{
+    margin: 0 20px;
+    color: whitesmoke;
+}
+
+.pages button {
+    height: 95%;
+    min-height: 30px;
+    font-size: 25px;
+    margin-right: 20px;
+}

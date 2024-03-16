@@ -1,0 +1,10 @@
+span {
+    color: red;
+}
+
+p {
+    width: 40%;
+    margin-bottom: 10px;
+    text-align: center;
+    line-height: 30px;
+}

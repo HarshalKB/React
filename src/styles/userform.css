@@ -1,0 +1,80 @@
+.total {
+    border: 2px solid black;
+    background-color: #8f999c;
+    border-radius: 25px;
+    font-size: 20px;
+    width: 800px;
+    margin: 0 auto;
+  }
+
+  .userform-heading {
+    font-size: 25px;
+  }
+  
+  .userformform, .table {
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    padding: 25px;
+  }
+  
+  .table {
+    padding-top: 0;
+  }
+  
+  .formInput {
+    display: flex;
+    justify-content: space-between;
+    width: 700px;
+  }
+  
+  .formInput label, .formInput input {
+    width: 300px;
+    margin: 10px;
+    padding: 10px;
+    font-size: 18px;
+    font-weight: 600;
+  }
+  
+  .formInput input {
+    border-radius: 10px;
+    background-color: peachpuff;
+  }
+  
+  .terms {
+    width: 600px;
+    display: flex;
+    justify-content: center;
+    margin: 20px auto;
+    font-size: 20px;
+  }
+  
+  .terms input {
+    width: 20px;
+    height: 18px;
+    margin-right: 10px;
+  }
+  
+  .userformbuttons {
+    width: 400px;
+    display: flex;
+    justify-content: center;
+    margin: 10px auto;
+  }
+  
+  .userformbtn {
+    width: 100px;
+    margin: 0 20px;
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 15px;
+    font-weight: 600;
+    background-color: #85ffd0;
+  }
+  
+  td {
+    height: 40px;
+    width: 150px;
+    font-size: 20px;
+    font-weight: 600;
+  }
